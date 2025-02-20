@@ -91,7 +91,7 @@ Enter your message for GPT-3.5 Chatbot: Hello, how are you?
 - Improve accuracy with fine-tuned models.
 - Extend support for additional NLP tasks.
 - Implement a graphical user interface (GUI).
-- 🔗 **Integrate with a web-based interface**: [NLP_WEB Project](https://github.com/nisarga715/NLP_WEB)  
+- 🔗 **Integrate with a web-based interface**: [NLP_WEB Project](https://github.com/nisarga715/NLP__WEB)  
 ---
 
 ## 📜 License
