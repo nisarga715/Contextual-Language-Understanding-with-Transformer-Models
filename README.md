@@ -91,7 +91,7 @@ Enter your message for GPT-3.5 Chatbot: Hello, how are you?
 - Improve accuracy with fine-tuned models.
 - Extend support for additional NLP tasks.
 - Implement a graphical user interface (GUI).
-- 🔗 **Integrate with a web-based interface**: [NLP_WEB Project](https://github.com/pavithrak17/NLP_WEB)  
+- 🔗 **Integrate with a web-based interface**: [NLP_WEB Project](https://github.com/nisarga715/NLP_WEB)  
 ---
 
 ## 📜 License
@@ -103,5 +103,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📬 Contact
 
 📧 **Pavithra K**  
-GitHub: [@pavithrak17](https://github.com/pavithrak17)  
-LinkedIn: [Connect Here](https://www.linkedin.com/in/pavithra-k-99b09a2b2/)
+GitHub: [@nisarga715](https://github.com/nisarga715)  
+
