@@ -102,6 +102,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-📧 **Pavithra K**  
+📧 **NISARGA M U**  
 GitHub: [@nisarga715](https://github.com/nisarga715)  
 
